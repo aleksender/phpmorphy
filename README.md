@@ -2,7 +2,7 @@ phpMorphy
 ===================
 
 [![Build Status](https://travis-ci.org/aleksender/phpmorphy.svg?branch=master)](https://travis-ci.org/aleksender/phpmorphy)
-[![GitHub tag](https://img.shields.io/github/tag/aleksender/phpmorphy.svg?label=latest)](https://packagist.org/packages/aleksender/php-morphy)
+[![GitHub tag](https://img.shields.io/github/tag/aleksender/phpmorphy.svg?label=latest)](https://packagist.org/packages/aleksender/phpmorphy)
 
 phpMorphy is morphological analyzer library for Russian, English and German languages.
 
