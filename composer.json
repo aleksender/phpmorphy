@@ -1,0 +1,33 @@
+{
+    "name": "aleksender/phpmorphy",
+    "description": "phpMorphy - morphological analyzer library for Russian, English and German languages",
+    "keywords": ["phpMorphy", "morphy", "morphology"],
+    "homepage": "https://github.com/MAXakaWIZARD/phpmorphy",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksandr Khliupin",
+            "email": "aleksandr.khliupin@gmail.com",
+            "homepage": "https://github.com/aleksender"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "": "src"
+        }
+    },
+    "require": {
+        "php": ">=5.3",
+        "ext-mbstring": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.8",
+        "satooshi/php-coveralls": "~1.0"
+    },
+    "config": {
+        "platform": {
+            "php": "5.3.9"
+        }
+    }
+}
